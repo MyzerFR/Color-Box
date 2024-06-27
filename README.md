@@ -1,2 +1,1 @@
-# Color-Box
-Color picker
+# Color Picker Box - By Myzer

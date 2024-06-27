@@ -15,4 +15,4 @@ git clone https://github.com/MyzerFR/Color-Box.git
 - In the window you need to press [Enter] to capture the color. Then, you can copy the hex code and you're done.
 
 ## Example
-|![example_image](https://github.com/MyzerFR/Color-Box/blob/main/example.png)|
+![example_image](https://github.com/MyzerFR/Color-Box/blob/main/example.png)
